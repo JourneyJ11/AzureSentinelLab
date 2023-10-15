@@ -26,15 +26,15 @@ Create a Vulnerable Virtual Machine on Azure(Honeypot): <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
-Creating a Custom Log in Log Analytics Workspace: <br/>
+Create a Custom Log in Log Analytics Workspace: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
-Configuring Azure Sentinel to Analyze Custom Logs: <br/>
+Configure Azure Sentinel to Analyze Custom Logs: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
-Configuring Field Extraction for Custom Logs: <br/>
+Configure Field Extraction for Custom Logs: <br/>
 <img src="https://i.imgur.com/IJnJ0dt.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
