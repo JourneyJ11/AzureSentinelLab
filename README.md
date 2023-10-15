@@ -35,11 +35,12 @@ Configuring Azure Sentinel to Analyze Custom Logs: <br/>
 <br />
 <br />
 Configuring Field Extraction for Custom Logs: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
+<img src="https://i.imgur.com/IJnJ0dt.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Monitor and Analyze Attacks: <br/>
-<img src="URL" height="80%" width="80%" alt="."/>
+<img src="https://i.imgur.com/UtH3HK5.png" height="80%" width="80%" alt="."/>
+<img src="https://i.imgur.com/mHFT9bl.png" height="80%" width="80%" alt="."/>
 <br />
 <br />
 Cleanup and Resource Deletion: <br/>
