@@ -3,7 +3,9 @@
  ### 
 
 <h2>Description</h2>
-In this lab, I setup Azure Sentinel (SIEM) and connect it to a live virtual machine acting as a honey pot. I will observe live attacks (RDP Brute Force) from all around the world. I will use a custom PowerShell script to look up the attackers Geolocation information and plot it on the Azure Sentinel Map.
+
+In this lab, I'll guide you through the process of setting up Azure Sentinel, a cloud-based Security Information and Event Management (SIEM) tool, to monitor a virtual machine honeypot. I'll expose the honeypot to the internet, monitor and log attacks, and visualize them on a map using Azure Sentinel.
+
 <br />
 
 
@@ -20,18 +22,33 @@ In this lab, I setup Azure Sentinel (SIEM) and connect it to a live virtual mach
 <h2>Program walk-through:</h2>
 
 <p align="center">
-: <br/>
+Create a Vulnerable Virtual Machine on Azure(Honeypot): <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
-: <br/>
+Creating a Custom Log in Log Analytics Workspace: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
-: <br/>
+Configuring Azure Sentinel to Analyze Custom Logs: <br/>
 <img src="URL" height="80%" width="80%" alt="."/>
 <br />
 <br />
+Configuring Field Extraction for Custom Logs: <br/>
+<img src="URL" height="80%" width="80%" alt="."/>
+<br />
+<br />
+Monitor and Analyze Attacks: <br/>
+<img src="URL" height="80%" width="80%" alt="."/>
+<br />
+<br />
+Cleanup and Resource Deletion: <br/>
+<img src="URL" height="80%" width="80%" alt="."/>
+<br />
+<br />
+
+
+
 
 </p>
 
